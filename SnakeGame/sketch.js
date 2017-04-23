@@ -1,4 +1,5 @@
-// Christel Paquette
+// Sprites : Christel Paquette
+// Code : Samuel Paquette
 // Snake Game
 
 var snake;
